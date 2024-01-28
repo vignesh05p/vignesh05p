@@ -9,3 +9,7 @@
   <p>😄 Pronouns: <span style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #4682B4;">He/Him</span></p>
   <p>⚡ Fun fact: I enjoy exploring new technologies and experimenting with different algorithms in my free time!</p>
 </div>
+
+<div align="center">
+  <img src="https://github.com/vignesh05p/animated-background.gif" alt="Animated Background" width="100%">
+</div>
