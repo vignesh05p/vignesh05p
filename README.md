@@ -49,5 +49,34 @@
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://moneydragons.com"><img src="https://media.giphy.com/media/3coOndBT075fVmxaS7/giphy.gif?cid=790b7611036lzecjvvuyokd3t9kjjmxzm0dkx24gqikoek1x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" /></a>
-</div>
+<tr>
+<td align="center">
+<a href="moneydragons.com">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
