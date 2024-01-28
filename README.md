@@ -45,48 +45,12 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different algorithms in my free time!
-
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
-
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+  <a href="https://moneydragons.com"><img src="https://media.giphy.com/media/3coOndBT075fVmxaS7/giphy.gif?cid=790b7611036lzecjvvuyokd3t9kjjmxzm0dkx24gqikoek1x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/VigneshPra13274">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter Logo" width="48" />
+  </a>
 </div>
