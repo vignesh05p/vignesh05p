@@ -2,7 +2,7 @@
 
 ![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-6e5494?logo=github) [GitHub](https://github.com/vignesh05p) &nbsp;&nbsp;&nbsp;
 ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2867B2?logo=linkedin) [LinkedIn](https://www.linkedin.com/in/vignesh-prabhu-3177b7214/)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vignesh05p.vignesh05p)
+![visitors](https://vbr.wocr.tk/badge?page_id=vignesh05p.vignesh05p&color=00cf00)
 
 👀 I'm interested in **machine learning engineering** and **artificial intelligence**.
 
