@@ -50,7 +50,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://moneydragons.com"><img src="https://media.giphy.com/media/3coOndBT075fVmxaS7/giphy.gif?cid=790b7611036lzecjvvuyokd3t9kjjmxzm0dkx24gqikoek1x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/VigneshPra13274">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter Logo" width="48" />
-  </a>
+ 
 </div>
