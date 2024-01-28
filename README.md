@@ -42,7 +42,7 @@
 
 📫 You can reach me via email at vignesh787sri@gmail.com
 
-😄 Pronouns: He/Him
+
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/vignesh05p)
 
 ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different algorithms in my free time!
