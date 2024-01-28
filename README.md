@@ -1,5 +1,46 @@
-<div align="center">
-  <h1 style="background-image: url(https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611mww8znqjgzrlreslr0nqc8kh2jxf9ha7dkiex7gf&ep=v1_gifs_search&rid=giphy.gif&ct=g); background-size: cover; -webkit-background-clip: text; color: transparent; text-shadow: 0 0 5px rgba(255,255,255,0.5);">👋 Hi, I'm <span style="color: #ff00ff;">V</span><span style="color: #ff8000;">i</span><span style="color: #00ff00;">g</span><span style="color: #00ffff;">n</span><span style="color: #8000ff;">e</span><span style="color: #ff0000;">s</span><span style="color: #ffff00;">h</span>!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vignesh's Portfolio</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('https://media.giphy.com/media/47FfbwWohqZyjmWQD6/giphy.gif?cid=790b7611mww8znqjgzrlreslr0nqc8kh2jxf9ha7dkiex7gf&ep=v1_gifs_search&rid=giphy.gif&ct=g') fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .container {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    font-size: 1.5em;
+  }
+
+  .container img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  p {
+    margin: 10px 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>👋 Hi, I'm Vignesh!</h1>
   <p>
     <a href="https://github.com/vignesh05p">
       <img src="https://img.shields.io/badge/GitHub-Profile-6e5494?logo=github" alt="GitHub Profile">
@@ -16,4 +57,8 @@
   <p>📫 You can reach me via email at <span style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #4682B4;">vignesh787sri@gmail.com</span></p>
   <p>😄 Pronouns: <span style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #4682B4;">He/Him</span></p>
   <p>⚡ Fun fact: I enjoy exploring new technologies and experimenting with different algorithms in my free time!</p>
+  <br>
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611mww8znqjgzrlreslr0nqc8kh2jxf9ha7dkiex7gf&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" width="50%">
 </div>
+</body>
+</html>
