@@ -49,9 +49,14 @@
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<!-- Social -->
+<table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="moneydragons.com">
+<a href="https://brunnerliv.io">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -80,3 +85,8 @@
 
 </td>
 </tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+</div>
