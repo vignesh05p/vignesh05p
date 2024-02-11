@@ -52,12 +52,3 @@ Welcome to my GitHub profile! Here you'll find an overview of my repositories an
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&theme=radical" alt="My Most Used Languages" />
 </div>
 
-## Repositories
-
-Here are some of the repositories I've been working on:
-
-1. [Repository 1](link_to_repository_1): Description of repository 1.
-2. [Repository 2](link_to_repository_2): Description of repository 2.
-3. [Repository 3](link_to_repository_3): Description of repository 3.
-
-Feel free to explore and contribute to any of these projects!
