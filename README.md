@@ -1,7 +1,8 @@
-
 <p align="center">
  <img  width="800" height="400" src="https://github.com/vignesh05p/musical-system/blob/main/VIGNESHPRABHU-ezgif.com-video-to-gif-converter.gif">
 </p>
+<small>Align the image properly.</small>
+
 ## **👋 Hi, I'm Vignesh!**<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
