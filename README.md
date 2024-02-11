@@ -1,6 +1,6 @@
 
 <p align="center">
- <img  width="800" height="400" src="[https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif](https://github.com/vignesh05p/musical-system/blob/main/VIGNESH%20PRABHU!.mp4)">
+ <img  width="800" height="400" src="https://github.com/vignesh05p/musical-system/blob/main/VIGNESHPRABHU-ezgif.com-video-to-gif-converter.gif">
 </p>
 # 👋 Hi, I'm Vignesh!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
