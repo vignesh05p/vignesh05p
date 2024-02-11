@@ -1,3 +1,7 @@
+
+<p align="center">
+ <img  width="800" height="400" src="[https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif](https://github.com/vignesh05p/musical-system/blob/main/VIGNESH%20PRABHU!.mp4)">
+</p>
 # 👋 Hi, I'm Vignesh!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-6e5494?logo=github)](https://github.com/vignesh05p) &nbsp;&nbsp;&nbsp;
