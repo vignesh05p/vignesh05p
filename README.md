@@ -40,7 +40,6 @@
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://moneydragons.com"><img src="https://media.giphy.com/media/3coOndBT075fVmxaS7/giphy.gif?cid=790b7611036lzecjvvuyokd3t9kjjmxzm0dkx24gqikoek1x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
  
 </div>
