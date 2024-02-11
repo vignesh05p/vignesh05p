@@ -49,9 +49,9 @@ Welcome to my GitHub profile! Here you'll find an overview of my repositories an
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=radical)](https://github.com/vignesh05p)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)](https://github.com/your_username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&theme=radical)](https://github.com/vignesh05p)
 
 ## Repositories
 
@@ -62,4 +62,3 @@ Here are some of the repositories I've been working on:
 3. [Repository 3](link_to_repository_3): Description of repository 3.
 
 Feel free to explore and contribute to any of these projects!
-
