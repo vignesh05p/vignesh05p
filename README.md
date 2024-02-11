@@ -2,6 +2,8 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-6e5494?logo=github)](https://github.com/vignesh05p) &nbsp;&nbsp;&nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2867B2?logo=linkedin)](https://www.linkedin.com/in/vignesh-prabhu-3177b7214/)
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 
 
 <a href=https://twitter.com/VigneshPra13274 ><img src="https://img.shields.io/twitter/follow/Vignesh Prabhu.svg?style=social" /> </a>
