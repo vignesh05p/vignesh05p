@@ -2,7 +2,8 @@
 <p align="center">
  <img  width="800" height="400" src="https://github.com/vignesh05p/musical-system/blob/main/VIGNESHPRABHU-ezgif.com-video-to-gif-converter.gif">
 </p>
-##👋 Hi, I'm Vignesh!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## **👋 Hi, I'm Vignesh!**<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-6e5494?logo=github)](https://github.com/vignesh05p) &nbsp;&nbsp;&nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2867B2?logo=linkedin)](https://www.linkedin.com/in/vignesh-prabhu-3177b7214/)
