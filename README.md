@@ -47,11 +47,10 @@
 
 Welcome to my GitHub profile! Here you'll find an overview of my repositories and contributions.
 
-## GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=radical)](https://github.com/vignesh05p)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&theme=radical)](https://github.com/vignesh05p)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=radical" alt="My GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&theme=radical" alt="My Most Used Languages" />
+</div>
 
 ## Repositories
 
