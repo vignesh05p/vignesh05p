@@ -43,3 +43,23 @@
  
  
 </div>
+# My GitHub Profile
+
+Welcome to my GitHub profile! Here you'll find an overview of my repositories and contributions.
+
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)](https://github.com/your_username)
+
+## Repositories
+
+Here are some of the repositories I've been working on:
+
+1. [Repository 1](link_to_repository_1): Description of repository 1.
+2. [Repository 2](link_to_repository_2): Description of repository 2.
+3. [Repository 3](link_to_repository_3): Description of repository 3.
+
+Feel free to explore and contribute to any of these projects!
+
