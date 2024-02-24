@@ -7,7 +7,6 @@
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2867B2?logo=linkedin)](https://www.linkedin.com/in/vignesh-prabhu-3177b7214/)
 ### Visitor count
 <img src="https://profile-counter.glitch.me/vignesh05p/count.svg" />
-
 <a href=https://twitter.com/VigneshPra13274 ><img src="https://img.shields.io/twitter/follow/Vignesh Prabhu.svg?style=social" /> </a>
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
