@@ -5,9 +5,14 @@
 ## **👋 Hi, Its  Vignesh!**<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-6e5494?logo=github)](https://github.com/vignesh05p) &nbsp;&nbsp;&nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-2867B2?logo=linkedin)](https://www.linkedin.com/in/vignesh-prabhu-3177b7214/)
+
 ### Visitor count
+
 <img src="https://profile-counter.glitch.me/vignesh05p/count.svg" />
+
 <a href=https://twitter.com/VigneshPra13274 ><img src="https://img.shields.io/twitter/follow/Vignesh Prabhu.svg?style=social" /> </a>
+
+
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
