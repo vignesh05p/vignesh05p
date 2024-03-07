@@ -39,7 +39,7 @@
 
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/vignesh05p)
 
-⚡ Fun fact: Eart is not  round 🌎
+⚡ Fun fact: Earth is not  round 🌎
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
