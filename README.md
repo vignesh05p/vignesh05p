@@ -40,7 +40,11 @@ Also Intrested in Webdev
 
 💞️ I'm looking to collaborate on projects related to **AI**, **ML**, and software development.
 
-📫 You can reach me via email at vignesh787sri@gmail.com
+📫 You can reach me via email at 
+vignesh787sri@gmail.com
+Or
+Iam active at Telgram =t.me/@vignesh_prabhu11
+
 
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/vignesh05p)
 
