@@ -50,13 +50,12 @@ Also Intrested in Webdev
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 
-</div>
 # My GitHub Profile
 
 Welcome to my GitHub profile! Here you'll find an overview of my repositories and contributions.
 
-<div>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=radical" alt="My GitHub Stats" />
 
-</div>
+
 
