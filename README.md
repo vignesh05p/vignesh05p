@@ -35,7 +35,8 @@
 
 🌱 I'm currently learning **Python** and machine learning techniques to enhance my skills in the field.
 
-Intrested in Docker, PHP, Yii-2, MySQL, HTML5, CSS3, JS, Lighthouse, DevTools, SEO
+Also Intrested in Webdev
+--> Docker, PHP, Yii-2, MySQL, HTML5, CSS3, JS, Lighthouse, DevTools, SEO
 
 💞️ I'm looking to collaborate on projects related to **AI**, **ML**, and software development.
 
