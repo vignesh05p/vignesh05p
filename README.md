@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-* 🎓 Final-year Computer Science student at SMVITM, Udupi (2021–2025) | CGPA: 7.4
+
 * 🛠️ Software Engineer Intern @ **IonIdea**, worked with **React** & **FastAPI**, reduced backend latency by 30%
 * 💬 Passionate about **AI**, **Machine Learning**, and building fast, scalable web apps
 * 🏆 Winner: **HackWave 2024**, Runner-up: **EG AI Innovation Hackathon**
