@@ -1,4 +1,3 @@
-Here’s your **README.md** profile section rewritten and updated to reflect the **skills, tools, and achievements** mentioned in your resume:
 
 ---
 
