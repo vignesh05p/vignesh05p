@@ -67,7 +67,7 @@
 📫 **Let's Connect:**
 
 - **Email:** [dev.vigneshprabhu@gmail.com](mailto:dev.vigneshprabhu@gmail.com)
-- **Telegram:** [@vignesh_prabhu11](https://t.me/vignesh_prabhu11)
+- **Telegram:** [@vigzz111](https://t.me/vigzz111)
 
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/vignesh05p)
 
