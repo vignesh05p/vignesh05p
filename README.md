@@ -1,4 +1,3 @@
-
 ---
 
 <p align="center">
@@ -18,7 +17,6 @@
 
 ### 🧠 About Me
 
-
 * 🛠️ Software Engineer Intern @ **IonIdea**, worked with **React** & **FastAPI**, reduced backend latency by 30%
 * 💬 Passionate about **AI**, **Machine Learning**, and building fast, scalable web apps
 * 🏆 Winner: **HackWave 2024**, Runner-up: **EG AI Innovation Hackathon**
@@ -30,11 +28,21 @@
 
 #### 💻 Languages & Frameworks
 
-<a href="https://golang.org" target="_blank"><img alt="Go" src="https://img.icons8.com/color/48/000000/golang.png" height="36px"/></a> <a href="https://reactjs.org" target="_blank"><img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" height="36px"/></a> <a href="https://vuejs.org" target="_blank"><img alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png" height="36px"/></a> <a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" height="36px"/></a> <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" height="36px"/></a> <a href="https://java.com/" target="_blank"><img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="36px"/></a>
+<a href="https://golang.org" target="_blank"><img alt="Go" src="https://img.icons8.com/color/48/000000/golang.png" height="36px"/></a>
+<a href="https://reactjs.org" target="_blank"><img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" height="36px"/></a>
+<a href="https://vuejs.org" target="_blank"><img alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png" height="36px"/></a>
+<a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" height="36px"/></a>
+<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" height="36px"/></a>
+<a href="https://java.com/" target="_blank"><img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="36px"/></a>
+<a href="https://cplusplus.com/" target="_blank"><img alt="C++" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="36px"/></a>
 
 #### 🧪 Tools & Platforms
 
-<a href="https://supabase.com/" target="_blank"><img alt="Supabase" src="https://img.icons8.com/fluency/48/supabase.png" height="36px"/></a> <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://img.icons8.com/color/48/000000/firebase.png" height="36px"/></a> <a href="https://figma.com" target="_blank"><img alt="Figma" src="https://img.icons8.com/color/48/figma.png" height="36px"/></a> <a href="https://swagger.io/" target="_blank"><img alt="Swagger" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/swagger.png" height="36px"/></a> <a href="https://postman.com" target="_blank"><img alt="Postman" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman-api.png" height="36px"/></a>
+<a href="https://supabase.com/" target="_blank"><img alt="Supabase" src="https://img.icons8.com/fluency/48/supabase.png" height="36px"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://img.icons8.com/color/48/000000/firebase.png" height="36px"/></a>
+<a href="https://figma.com" target="_blank"><img alt="Figma" src="https://img.icons8.com/color/48/figma.png" height="36px"/></a>
+<a href="https://swagger.io/" target="_blank"><img alt="Swagger" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/swagger.png" height="36px"/></a>
+<a href="https://postman.com" target="_blank"><img alt="Postman" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman-api.png" height="36px"/></a>
 
 #### 🗄️ Databases
 
@@ -60,10 +68,11 @@
 ---
 
 📫 **Let's Connect:**
-Email: [dev.vigneshprabhu@gmail.com](mailto:dev.vigneshprabhu@gmail.com)
-Telegram: [@vignesh\_prabhu11](https://t.me/vignesh_prabhu11)
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge\&logo=github)](https://github.com/sponsors/vignesh05p)
+- **Email:** [dev.vigneshprabhu@gmail.com](mailto:dev.vigneshprabhu@gmail.com)
+- **Telegram:** [@vignesh_prabhu11](https://t.me/vignesh_prabhu11)
+
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/vignesh05p)
 
 ---
 
@@ -78,5 +87,3 @@ Telegram: [@vignesh\_prabhu11](https://t.me/vignesh_prabhu11)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 ---
-
-Would you like this in a downloadable `README.md` file?
