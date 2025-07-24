@@ -9,9 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2867B2?logo=linkedin)](https://www.linkedin.com/in/vigneshprabhu11/)
 [![GitHub](https://img.shields.io/github/followers/vignesh05p?label=Follow\&style=social)](https://github.com/vignesh05p)
 
-### Visitor count
-
-<img src="https://profile-counter.glitch.me/vignesh05p/count.svg" />
 
 ---
 
