@@ -1,86 +1,167 @@
----
+# 👋 Hey, I'm **Vignesh Prabhu!** 
 
-<p align="center">
- <img  width="400" height="200" src="https://github.com/vignesh05p/musical-system/blob/main/VIGNESHPRABHU-ezgif.com-video-to-gif-converter.gif">
-</p>
-
-## **👋 Hey, I'm Vignesh Prabhu!** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2867B2?logo=linkedin)](https://www.linkedin.com/in/vigneshprabhu11/)
-[![GitHub](https://img.shields.io/github/followers/vignesh05p?label=Follow\&style=social)](https://github.com/vignesh05p)
-
-
----
-
-### 🧠 About Me
-
-* 🛠️ Software Engineer Intern @ **IonIdea**, worked with **React** & **FastAPI**, reduced backend latency by 30%
-* 💬 Passionate about **AI**, **Machine Learning**, and building fast, scalable web apps
-* 🏆 Winner: **HackWave 2024**, Runner-up: **EG AI Innovation Hackathon**
-* 💡 Projects: [EmbedChat](https://embedchat.app) | [Finomo](https://finomo-web-frontend.vercel.app) | Research Assist (LLaMA 3.1)
+<div align="center">
+  <img width="400" height="200" src="https://github.com/vignesh05p/musical-system/blob/main/VIGNESHPRABHU-ezgif.com-video-to-gif-converter.gif" alt="Vignesh Prabhu">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshprabhu11/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vignesh05p)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.vigneshprabhu@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vigzz111)
+</div>
 
 ---
 
-### 🔧 Tech Stack
+## 🚀 **About Me**
 
-#### 💻 Languages & Frameworks
+```yaml
+name: Vignesh Prabhu
+role: Software Engineer & AI Enthusiast
+location: Bengaluru, Karnataka, India
+current_focus: ["AI Integration", "Full Stack Development", "Machine Learning"]
+motto: "Earth may not be perfect 🌍 — but my code tries to be 😅"
+```
 
-<a href="https://golang.org" target="_blank"><img alt="Go" src="https://img.icons8.com/color/48/000000/golang.png" height="36px"/></a>
-<a href="https://reactjs.org" target="_blank"><img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" height="36px"/></a>
-<a href="https://vuejs.org" target="_blank"><img alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png" height="36px"/></a>
-<a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" height="36px"/></a>
-<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" height="36px"/></a>
-<a href="https://java.com/" target="_blank"><img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="36px"/></a>
-<a href="https://cplusplus.com/" target="_blank"><img alt="C++" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="36px"/></a>
-
-#### 🧪 Tools & Platforms
-
-<a href="https://supabase.com/" target="_blank"><img alt="Supabase" src="https://img.icons8.com/fluency/48/supabase.png" height="36px"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://img.icons8.com/color/48/000000/firebase.png" height="36px"/></a>
-<a href="https://figma.com" target="_blank"><img alt="Figma" src="https://img.icons8.com/color/48/figma.png" height="36px"/></a>
-<a href="https://swagger.io/" target="_blank"><img alt="Swagger" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/swagger.png" height="36px"/></a>
-<a href="https://postman.com" target="_blank"><img alt="Postman" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman-api.png" height="36px"/></a>
-
-#### 🗄️ Databases
-
-* PostgreSQL | MongoDB | Supabase | SQL Server | MySQL
+- 🛠️ **Software Engineer Intern** @ **IonIdea** | Specialized in **React & FastAPI** | Achieved **30% backend latency reduction**
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and building lightning-fast, scalable web applications
+- 🏆 **HackWave 2024 Winner** | **EG AI Innovation Hackathon Runner-up**
+- 💡 Creator of innovative projects: **[EmbedChat](https://embedchat.app)** | **[Finomo](https://finomo-web-frontend.vercel.app)** | **Research Assist (LLaMA 3.1)**
 
 ---
 
-### 📚 Certifications
+## 🛠️ **Tech Arsenal**
 
-* **Go Language - Concurrency & APIs**
-* **Full Stack Web Development – Apna College**
-* **DevOps – Great Learning**
-* **JavaScript Essentials – LinkedIn Learning**
+### **Languages & Frameworks**
+<div align="center">
+  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### **Databases**
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</div>
 
 ---
 
-### ✨ Extras
+## 🎓 **Certifications & Achievements**
 
-* 🏅 **NCC Cadet**: Led beach cleanups & civic initiatives
-* 💼 Practiced Agile, CI/CD, DevOps, RCA, and SRE workflows
-* 🔍 Current focus: Building **AI-integrated tools**, **React dashboards**, and **ML-powered platforms**
+<table>
+<tr>
+<td width="50%">
+
+### **🏅 Certifications**
+- ✅ **Go Language - Concurrency & APIs**
+- ✅ **Full Stack Web Development** – Apna College
+- ✅ **DevOps Fundamentals** – Great Learning
+- ✅ **JavaScript Essentials** – LinkedIn Learning
+
+</td>
+<td width="50%">
+
+### **🏆 Achievements**
+- 🥇 **HackWave 2024 Winner**
+- 🥈 **EG AI Innovation Hackathon Runner-up**
+- 🎖️ **NCC Cadet** - Community Leadership
+- 🚀 **30% Backend Performance Improvement**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🤖 EmbedChat** | AI-powered chat integration platform | React, Node.js, AI APIs | [Live Demo](https://embedchat.app) |
+| **💰 Finomo** | Financial management web application | Vue.js, FastAPI, PostgreSQL | [Live Demo](https://finomo-web-frontend.vercel.app) |
+| **📚 Research Assist** | LLaMA 3.1 powered research tool | Python, LLaMA 3.1, ML | Coming Soon |
+
+</div>
 
 ---
 
-📫 **Let's Connect:**
+## 📊 **GitHub Analytics**
 
-- **Email:** [dev.vigneshprabhu@gmail.com](mailto:dev.vigneshprabhu@gmail.com)
-- **Telegram:** [@vigzz111](https://t.me/vigzz111)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/vignesh05p)
-
----
-
-⚡ **Fun Fact:** Earth may not be perfect 🌍 — but my code tries to be 😅
-
-<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh05p&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 💼 **Professional Focus**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=radical" alt="GitHub Stats" />
+```typescript
+const vigneshPrabhu = {
+  currentFocus: ["AI Integration", "React Dashboards", "ML Platforms"],
+  workingOn: ["Scalable Web Applications", "AI-Powered Tools"],
+  methodologies: ["Agile", "CI/CD", "DevOps", "RCA", "SRE"],
+  collaboration: "Open to exciting opportunities and projects",
+  learning: "Always exploring cutting-edge technologies"
+};
+```
 
 ---
+
+## 🌍 **Beyond Code**
+
+- 🏅 **NCC Cadet**: Led environmental initiatives and community service projects
+- 🌊 Organized beach cleanup drives and civic engagement programs
+- 🔍 **Current Mission**: Building next-generation AI-integrated applications
+- 🎯 **Goal**: Contributing to open-source projects that make a difference
+
+---
+
+## 📬 **Let's Connect & Collaborate**
+
+<div align="center">
+  
+  **Ready to build something amazing together?**
+  
+  [![Sponsor Me](https://img.shields.io/badge/❤️_Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/vignesh05p)
+  
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="200" />
+  
+  ---
+  
+  **"Code is poetry written in logic"** ✨
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vignesh05p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
