@@ -4,7 +4,6 @@ Here is a fully revamped, **Batman-themed** GitHub README.
 
 Copy the code below into your `README.md` file.
 
-```markdown
 <!-- HEADER / BAT-SIGNAL AREA -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=VIGNESH%20PRABHU&fontSize=80&fontColor=F7E018&fontAlignY=35&animation=fadeIn&fontAlign=50" alt="Batman Header" />
@@ -45,7 +44,6 @@ Copy the code below into your `README.md` file.
       <h3>>_ ACCESSING USER DATA...</h3>
       <br />
       
-```yaml
 # WAYNE ENTERPRISES // HR DATABASE
 # --------------------------------
 User: Vignesh Prabhu
@@ -53,7 +51,7 @@ Class: Software Engineer & AI Enthusiast
 Base_of_Operations: Bengaluru, Karnataka, India
 Current_Mission: ["AI Integration", "Full Stack Dev", "ML"]
 Directive: "Earth may not be perfect 🌍 — but my code tries to be 😅"
-```
+
 
 <ul>
   <li>🛠️ <b>Software Engineer Intern @ IonIdea</b> | <span style="color: #F7E018;">React & FastAPI Specialist</span></li>
@@ -169,7 +167,7 @@ Directive: "Earth may not be perfect 🌍 — but my code tries to be 😅"
 <!-- PROFESSIONAL FOCUS -->
 ## 💼 **CURRENT OBJECTIVES**
 
-```typescript
+
 const vigneshProfile = {
   status: "ACTIVE",
   currentFocus: ["AI Integration", "React Dashboards", "ML Platforms"],
@@ -177,7 +175,6 @@ const vigneshProfile = {
   allianceStatus: "Open to Collaborations",
   quote: "Code is poetry written in logic ✨"
 };
-```
 
 <!-- FOOTER -->
 <div align="center">
@@ -194,12 +191,4 @@ const vigneshProfile = {
   <img src="https://komarev.com/ghpvc/?username=vignesh05p&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
   
 </div>
-```
 
-### 🎨 Design Features Applied:
-1.  **Batman Palette:** Used `#000000` (Black), `#1a1a1a` (Dark Gray), and `#F7E018` (Bat-Signal Yellow) throughout.
-2.  **Custom Header:** Added a dynamic "Waving" header with a yellow/black theme.
-3.  **UI/UX Tables:** Used invisible HTML tables to create a "Grid System" that aligns your achievements and stats cleanly, rather than just stacking them.
-4.  **Stealth Badges:** Customized all Shields.io badges to be Flat, Black, and Yellow/White to mimic a tactical interface.
-5.  **Code Block Aesthetics:** Maintained the `yaml` and `typescript` blocks because they look like "System Logs" or "Terminal outputs."
-6.  **Dividers:** Replaced standard lines (`---`) with a "Solar" line image that looks like a laser scan.
