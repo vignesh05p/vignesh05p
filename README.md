@@ -1,8 +1,3 @@
-Here is a fully revamped, **Batman-themed** GitHub README.
-
-**⚠️ Important Technical Note:** GitHub sanitizes (blocks) standard CSS (`<style>` tags, classes, and external stylesheets) for security reasons. To achieve the "Modern UI/UX" look, I have used **inline HTML attributes**, **styled badges**, **tables for grid layouts**, and **dark-themed assets** to simulate a high-tech "Bat-Computer" interface.
-
-Copy the code below into your `README.md` file.
 
 <!-- HEADER / BAT-SIGNAL AREA -->
 <div align="center">
