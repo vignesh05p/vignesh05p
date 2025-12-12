@@ -1,167 +1,205 @@
-# 👋 Hey, I'm **Vignesh Prabhu!** 
+Here is a fully revamped, **Batman-themed** GitHub README.
 
+**⚠️ Important Technical Note:** GitHub sanitizes (blocks) standard CSS (`<style>` tags, classes, and external stylesheets) for security reasons. To achieve the "Modern UI/UX" look, I have used **inline HTML attributes**, **styled badges**, **tables for grid layouts**, and **dark-themed assets** to simulate a high-tech "Bat-Computer" interface.
+
+Copy the code below into your `README.md` file.
+
+```markdown
+<!-- HEADER / BAT-SIGNAL AREA -->
 <div align="center">
-  <img width="400" height="200" src="https://github.com/vignesh05p/musical-system/blob/main/VIGNESHPRABHU-ezgif.com-video-to-gif-converter.gif" alt="Vignesh Prabhu">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=VIGNESH%20PRABHU&fontSize=80&fontColor=F7E018&fontAlignY=35&animation=fadeIn&fontAlign=50" alt="Batman Header" />
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshprabhu11/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vignesh05p)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.vigneshprabhu@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vigzz111)
+  <img width="400" src="https://github.com/vignesh05p/musical-system/blob/main/VIGNESHPRABHU-ezgif.com-video-to-gif-converter.gif" alt="Vignesh Animation" style="border-radius: 15px; border: 4px solid #F7E018; box-shadow: 0px 0px 20px #F7E018;">
+
+  <br/><br/>
+
+  <!-- SOCIAL BADGES - BATMAN STEALTH STYLE -->
+  <a href="https://www.linkedin.com/in/vigneshprabhu11/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=F7E018&labelColor=1a1a1a" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/vignesh05p">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=F7E018&labelColor=1a1a1a" alt="GitHub">
+  </a>
+  <a href="mailto:dev.vigneshprabhu@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=F7E018&labelColor=1a1a1a" alt="Email">
+  </a>
+  <a href="https://t.me/vigzz111">
+    <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=F7E018&labelColor=1a1a1a" alt="Telegram">
+  </a>
+
+  <br />
+  
+  <h3>🦇 "It's not who I am underneath, but what I <i>code</i> that defines me."</h3>
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</div>
 
-## 🚀 **About Me**
+<!-- IDENTITY DOSSIER -->
+## 🖥️ **SYSTEM_IDENTITY: [VIGNESH_PRABHU]**
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>>_ ACCESSING USER DATA...</h3>
+      <br />
+      
 ```yaml
-name: Vignesh Prabhu
-role: Software Engineer & AI Enthusiast
-location: Bengaluru, Karnataka, India
-current_focus: ["AI Integration", "Full Stack Development", "Machine Learning"]
-motto: "Earth may not be perfect 🌍 — but my code tries to be 😅"
+# WAYNE ENTERPRISES // HR DATABASE
+# --------------------------------
+User: Vignesh Prabhu
+Class: Software Engineer & AI Enthusiast
+Base_of_Operations: Bengaluru, Karnataka, India
+Current_Mission: ["AI Integration", "Full Stack Dev", "ML"]
+Directive: "Earth may not be perfect 🌍 — but my code tries to be 😅"
 ```
 
-- 🛠️ **Software Engineer Intern** @ **IonIdea** | Specialized in **React & FastAPI** | Achieved **30% backend latency reduction**
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and building lightning-fast, scalable web applications
-- 🏆 **HackWave 2024 Winner** | **EG AI Innovation Hackathon Runner-up**
-- 💡 Creator of innovative projects: **[EmbedChat](https://embedchat.app)** | **[Finomo](https://finomo-web-frontend.vercel.app)** | **Research Assist (LLaMA 3.1)**
+<ul>
+  <li>🛠️ <b>Software Engineer Intern @ IonIdea</b> | <span style="color: #F7E018;">React & FastAPI Specialist</span></li>
+  <li>🚀 Achieved <b>30% backend latency reduction</b> (Stealth Optimization)</li>
+  <li>🏆 <b>HackWave 2024 Winner</b> | EG AI Innovation Runner-up</li>
+  <li>💡 Architect of: <a href="https://embedchat.app">EmbedChat</a>, <a href="https://finomo-web-frontend.vercel.app">Finomo</a></li>
+</ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/l0NwGZEkqaGRtG7tu/giphy.gif" width="90%" style="border-radius: 10px; filter: grayscale(100%);">
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</div>
 
-## 🛠️ **Tech Arsenal**
+<!-- UTILITY BELT / TECH STACK -->
+## 🦇 **THE UTILITY BELT (Tech Arsenal)**
 
-### **Languages & Frameworks**
 <div align="center">
   
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  <!-- LANGUAGES -->
+  <img src="https://img.shields.io/badge/GO-000000?style=flat-square&logo=go&logoColor=00ADD8&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=3776AB&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00599C&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=1c1c1c" />
+  <br/>
+  
+  <!-- FRAMEWORKS -->
+  <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/VUE.JS-000000?style=flat-square&logo=vue.js&logoColor=4FC08D&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=node.js&logoColor=339933&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/FASTAPI-000000?style=flat-square&logo=fastapi&logoColor=009688&labelColor=1c1c1c" />
+  <br/>
+
+  <!-- TOOLS & DB -->
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/MONGODB-000000?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=2496ED&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=F05032&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/SUPABASE-000000?style=flat-square&logo=supabase&logoColor=3ECF8E&labelColor=1c1c1c" />
 
 </div>
 
-### **Tools & Platforms**
+<br/>
+
+<!-- ACHIEVEMENTS GRID -->
 <div align="center">
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### **Databases**
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-</div>
-
----
-
-## 🎓 **Certifications & Achievements**
-
 <table>
 <tr>
 <td width="50%">
 
-### **🏅 Certifications**
-- ✅ **Go Language - Concurrency & APIs**
-- ✅ **Full Stack Web Development** – Apna College
+### 🏅 **CERTIFIED OPERATIVE**
+- ✅ **Go Language** - Concurrency & APIs
+- ✅ **Full Stack Dev** – Apna College
 - ✅ **DevOps Fundamentals** – Great Learning
-- ✅ **JavaScript Essentials** – LinkedIn Learning
+- ✅ **JavaScript Essentials** – LinkedIn
 
 </td>
 <td width="50%">
 
-### **🏆 Achievements**
+### 🏆 **MISSION SUCCESSES**
 - 🥇 **HackWave 2024 Winner**
-- 🥈 **EG AI Innovation Hackathon Runner-up**
+- 🥈 **EG AI Innovation Runner-up**
 - 🎖️ **NCC Cadet** - Community Leadership
-- 🚀 **30% Backend Performance Improvement**
+- 🚀 **30% Performance Boost** (Backend)
 
 </td>
 </tr>
 </table>
-
----
-
-## 🌟 **Featured Projects**
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🤖 EmbedChat** | AI-powered chat integration platform | React, Node.js, AI APIs | [Live Demo](https://embedchat.app) |
-| **💰 Finomo** | Financial management web application | Vue.js, FastAPI, PostgreSQL | [Live Demo](https://finomo-web-frontend.vercel.app) |
-| **📚 Research Assist** | LLaMA 3.1 powered research tool | Python, LLaMA 3.1, ML | Coming Soon |
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh05p&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </div>
 
----
+<!-- FEATURED PROJECTS -->
+## 🖥️ **BAT-COMPUTER ARCHIVES (Projects)**
 
-## 💼 **Professional Focus**
+| PROJECT | CLASSIFICATION | TECH ARSENAL | STATUS |
+|:---|:---|:---|:---:|
+| **🤖 [EmbedChat](https://embedchat.app)** | AI Integration Platform | React, Node.js, AI APIs | 🟢 LIVE |
+| **💰 [Finomo](https://finomo-web-frontend.vercel.app)** | Financial Management System | Vue.js, FastAPI, PostgreSQL | 🟢 LIVE |
+| **📚 Research Assist** | Intellectual Analysis Tool | Python, LLaMA 3.1, ML | 🟡 DEV |
+
+<br/>
+
+<!-- SYSTEM ANALYTICS -->
+## 📊 **SYSTEM ANALYTICS**
+
+<div align="center">
+  <!-- GitHub Stats (Dark Theme) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&theme=buefy&bg_color=000000&title_color=F7E018&text_color=ffffff&icon_color=F7E018&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages (Dark Theme) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&theme=buefy&bg_color=000000&title_color=F7E018&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <!-- Streak Stats (Dark Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh05p&theme=buefy&background=000000&ring=F7E018&fire=F7E018&currStreakLabel=F7E018&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</div>
+
+<!-- PROFESSIONAL FOCUS -->
+## 💼 **CURRENT OBJECTIVES**
 
 ```typescript
-const vigneshPrabhu = {
+const vigneshProfile = {
+  status: "ACTIVE",
   currentFocus: ["AI Integration", "React Dashboards", "ML Platforms"],
-  workingOn: ["Scalable Web Applications", "AI-Powered Tools"],
   methodologies: ["Agile", "CI/CD", "DevOps", "RCA", "SRE"],
-  collaboration: "Open to exciting opportunities and projects",
-  learning: "Always exploring cutting-edge technologies"
+  allianceStatus: "Open to Collaborations",
+  quote: "Code is poetry written in logic ✨"
 };
 ```
 
----
-
-## 🌍 **Beyond Code**
-
-- 🏅 **NCC Cadet**: Led environmental initiatives and community service projects
-- 🌊 Organized beach cleanup drives and civic engagement programs
-- 🔍 **Current Mission**: Building next-generation AI-integrated applications
-- 🎯 **Goal**: Contributing to open-source projects that make a difference
-
----
-
-## 📬 **Let's Connect & Collaborate**
-
+<!-- FOOTER -->
 <div align="center">
+  <br/>
   
-  **Ready to build something amazing together?**
+  **Initiate Protocol: COLLABORATION**
   
-  [![Sponsor Me](https://img.shields.io/badge/❤️_Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/vignesh05p)
+  <br/>
+
+  [![Sponsor Me](https://img.shields.io/badge/❤️_Sponsor_Me-000000?style=for-the-badge&logo=github-sponsors&logoColor=F7E018&labelColor=1a1a1a)](https://github.com/sponsors/vignesh05p)
   
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="200" />
+  <br/><br/>
   
-  ---
-  
-  **"Code is poetry written in logic"** ✨
+  <img src="https://komarev.com/ghpvc/?username=vignesh05p&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
   
 </div>
+```
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vignesh05p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+### 🎨 Design Features Applied:
+1.  **Batman Palette:** Used `#000000` (Black), `#1a1a1a` (Dark Gray), and `#F7E018` (Bat-Signal Yellow) throughout.
+2.  **Custom Header:** Added a dynamic "Waving" header with a yellow/black theme.
+3.  **UI/UX Tables:** Used invisible HTML tables to create a "Grid System" that aligns your achievements and stats cleanly, rather than just stacking them.
+4.  **Stealth Badges:** Customized all Shields.io badges to be Flat, Black, and Yellow/White to mimic a tactical interface.
+5.  **Code Block Aesthetics:** Maintained the `yaml` and `typescript` blocks because they look like "System Logs" or "Terminal outputs."
+6.  **Dividers:** Replaced standard lines (`---`) with a "Solar" line image that looks like a laser scan.
