@@ -46,33 +46,6 @@ Software Engineer Intern at **IonIdea**, specializing in React and FastAPI. I bu
 
 **Frameworks & Tools**
 `React` `Vue.js` `Node.js` `FastAPI` `PostgreSQL` `MongoDB` `Docker` `Supabase` `Git` `Figma`
-
----
-
-## Projects
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [**EmbedChat**](https://embedchat.app) | AI Integration Platform | React, Node.js, AI APIs | ✅ Live |
-| [**Finomo**](https://finomo-web-frontend.vercel.app) | Financial Management System | Vue.js, FastAPI, PostgreSQL | ✅ Live |
-| **Research Assist** | Intelligent Research Tool | Python, LLaMA 3.1, ML | 🔧 In Dev |
-
----
-
-## Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vignesh05p&show_icons=true&bg_color=0a0a0a&title_color=F7E018&text_color=ffffff&icon_color=F7E018&hide_border=true&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh05p&layout=compact&bg_color=0a0a0a&title_color=F7E018&text_color=ffffff&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh05p&background=0a0a0a&ring=F7E018&fire=F7E018&currStreakLabel=F7E018&currStreakNum=ffffff&sideLabels=aaaaaa&sideNums=ffffff&dates=aaaaaa&hide_border=true" />
-
-</div>
-
 ---
 
 ## Certifications
