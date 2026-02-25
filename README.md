@@ -22,44 +22,54 @@
 
 <br/><br/>
 
-*Software Engineer · AI Enthusiast · Bengaluru, India*
+*Member Technical Staff @ Manipal Dot Net · Systems & Cloud Engineer · Bengaluru, India*
 
 </div>
 
 ---
 
-## About
+## ⚡ About Me
 
-Software Engineer Intern at **IonIdea**, specializing in React and FastAPI. I build AI-integrated products, full-stack platforms, and performance-driven systems.
+I am a **Systems Engineer** specializing in high-performance backends and cloud-native architecture. Currently, I am a **Member Technical Staff** at **Manipal Dot Net**, where I focus on building robust systems using C, C++, and Go.
 
-- Reduced backend latency by **30%** through targeted optimization
-- Won **HackWave 2024** · Runner-up at **EG AI Innovation**
-- Built and shipped **[EmbedChat](https://embedchat.app)** and **[Finomo](https://finomo-web-frontend.vercel.app)**
-- Currently focused on AI integration, React dashboards, and ML platforms
+- 🛠️ **Core Expertise:** Low-latency systems (C/C++), High-concurrency backends (Go), and AI-augmented Python applications.
+- ☁️ **Cloud Native:** Architecting and deploying scalable environments using **AWS, Kubernetes, and Docker**.
+- 🤖 **AI-Powered:** Leveraging LLMs and AI workflows to accelerate high-level application development.
+- 🏆 **Track Record:** Won **HackWave 2024** | Runner-up at **EG AI Innovation**.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-**Languages**
-`Go` `Python` `Java` `C++` `JavaScript` `TypeScript`
+### Languages & Performance
+`C` `C++` `Go (net/http, Gin)` `Python (AI-Driven)` `Java` `TypeScript`
 
-**Frameworks & Tools**
-`React` `Vue.js` `Node.js` `FastAPI` `PostgreSQL` `MongoDB` `Docker` `Supabase` `Git` `Figma`
+### Frameworks & Cloud
+`React` `FastAPI` `Node.js` `AWS` `Kubernetes` `Docker` `PostgreSQL` `MongoDB` `Redis`
+
 ---
 
-## Certifications
+## 🛠️ Featured Projects
 
-- Go Language — Concurrency & APIs
-- Full Stack Development — Apna College
-- DevOps Fundamentals — Great Learning
-- JavaScript Essentials — LinkedIn Learning
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[EmbedChat](https://embedchat.app)** | AI-integrated chat platform for custom data. | FastAPI, React, AI |
+| **[Finomo](https://finomo-web-frontend.vercel.app)** | High-performance financial dashboard. | React, TypeScript |
+
+---
+
+## 📜 Certifications
+
+- **Go Programming** — Concurrency, net/http & Gin APIs
+- **Cloud & DevOps** — AWS, Docker, Kubernetes Fundamentals
+- **Full Stack Development** — Modern Web Architecture
+- **JavaScript/TypeScript Essentials** — LinkedIn Learning
 
 ---
 
 <div align="center">
 
-*Open to collaborations and interesting problems.*
+*Currently diving deep into Distributed Systems and High-Performance Networking.*
 
 <br/>
 
