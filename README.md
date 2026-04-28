@@ -1,80 +1,132 @@
+<!-- ═══════════════════════════════════════════════════════════════
+     VIGNESH PRABHU — GitHub Profile README
+     Systems & Backend Engineer · Bengaluru, India
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=220&section=header&text=Vignesh%20Prabhu&fontSize=64&fontColor=F7E018&fontAlignY=38&animation=fadeIn" />
+```
+██╗   ██╗██╗ ██████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
+██║   ██║██║██╔════╝ ████╗  ██║██╔════╝██╔════╝██║  ██║
+██║   ██║██║██║  ███╗██╔██╗ ██║█████╗  ███████╗███████║
+╚██╗ ██╔╝██║██║   ██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║
+ ╚████╔╝ ██║╚██████╔╝██║ ╚████║███████╗███████║██║  ██║
+  ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
+
+**Member Technical Staff @ Manipal Dot Net**
+
+`C/C++` `Go` `Cloud-Native` `Distributed Systems` `Bengaluru, India`
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vigneshprabhu11/">
-  <img src="https://img.shields.io/badge/LinkedIn-%23F7E018.svg?style=flat-square&logo=linkedin&logoColor=000" />
-</a>
-&nbsp;
-<a href="https://github.com/vignesh05p">
-  <img src="https://img.shields.io/badge/GitHub-%23F7E018.svg?style=flat-square&logo=github&logoColor=000" />
-</a>
-&nbsp;
-<a href="mailto:dev.vigneshprabhu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23F7E018.svg?style=flat-square&logo=gmail&logoColor=000" />
-</a>
-&nbsp;
-<a href="https://t.me/vigzz111">
-  <img src="https://img.shields.io/badge/Telegram-%23F7E018.svg?style=flat-square&logo=telegram&logoColor=000" />
-</a>
-
-<br/><br/>
-
-*Member Technical Staff @ Manipal Dot Net · Systems & Cloud Engineer · Bengaluru, India*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshprabhu11/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vignesh05p)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.vigneshprabhu@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vigzz111)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## `$ whoami`
 
-I am a **Systems Engineer** specializing in high-performance backends and cloud-native architecture. Currently, I am a **Member Technical Staff** at **Manipal Dot Net**, where I focus on building robust systems using C, C++, and Go.
+I build systems that **don't flinch under load**. My day job is low-level infrastructure — writing C and C++ at Manipal Dot Net where latency is measured in microseconds, not milliseconds. When I need speed with ergonomics, I reach for Go. When I need to ship an AI-powered feature fast, Python.
 
-- 🛠️ **Core Expertise:** Low-latency systems (C/C++), High-concurrency backends (Go), and AI-augmented Python applications.
-- ☁️ **Cloud Native:** Architecting and deploying scalable environments using **AWS, Kubernetes, and Docker**.
-- 🤖 **AI-Powered:** Leveraging LLMs and AI workflows to accelerate high-level application development.
-- 🏆 **Track Record:** Won **HackWave 2024** | Runner-up at **EG AI Innovation**.
+My work sits at the intersection of three domains:
 
----
+```
+  ┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
+  │   SYSTEMS LAYER     │     │   CLOUD LAYER        │     │   AI LAYER          │
+  │                     │     │                      │     │                     │
+  │  C / C++ backends   │────▶│  Kubernetes + AWS    │────▶│  LLMs + RAG pipes   │
+  │  Lock-free concur.  │     │  Docker + CI/CD      │     │  FastAPI + Python   │
+  │  Memory ownership   │     │  IaC + autoscaling   │     │  Embeddings + VDBs  │
+  └─────────────────────┘     └─────────────────────┘     └─────────────────────┘
+```
 
-## 🚀 Tech Stack
-
-### Languages & Performance
-`C` `C++` `Go (net/http, Gin)` `Python (AI-Driven)` `Java` `TypeScript`
-
-### Frameworks & Cloud
-`React` `FastAPI` `Node.js` `AWS` `Kubernetes` `Docker` `PostgreSQL` `MongoDB` `Redis`
-
----
-
-## 🛠️ Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[EmbedChat](https://embedchat.app)** | AI-integrated chat platform for custom data. | FastAPI, React, AI |
-| **[Finomo](https://finomo-web-frontend.vercel.app)** | High-performance financial dashboard. | React, TypeScript |
+Currently diving deep into **distributed systems** and **high-performance networking**.
 
 ---
 
-## 📜 Certifications
+## `$ cat /proc/skills`
 
-- **Go Programming** — Concurrency, net/http & Gin APIs
-- **Cloud & DevOps** — AWS, Docker, Kubernetes Fundamentals
-- **Full Stack Development** — Modern Web Architecture
-- **JavaScript/TypeScript Essentials** — LinkedIn Learning
+**Systems & Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Frameworks & Data**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## `$ ls -la ./projects`
+
+### [EmbedChat](https://embedchat.app) — AI-Native Knowledge Platform
+> Query your own data with language. Upload documents, connect sources, and get precise answers through a RAG pipeline backed by vector search and LLM inference.
+
+`FastAPI` `React` `Vector DB` `LLM` `Python`
+
+---
+
+### [Finomo](https://finomo-web-frontend.vercel.app) — Financial Intelligence Dashboard
+> High-performance financial analytics built for real-time decision making. Portfolio tracking, market data visualization, and intelligent reporting — zero lag.
+
+`React` `TypeScript` `Recharts` `REST APIs`
+
+---
+
+## `$ history | grep awards`
+
+```
+[2024]  🥇  1st Place   — HackWave 2024
+[2024]  🥈  Runner-up   — EG AI Innovation Challenge
+```
+
+---
+
+## `$ ls ./certifications`
+
+| Domain | Certification |
+|--------|--------------|
+| Go | Concurrency, net/http & Gin API development |
+| Cloud | AWS, Docker & Kubernetes fundamentals |
+| Full Stack | Modern web application architecture |
+| JS/TS | JavaScript & TypeScript essentials (LinkedIn Learning) |
+
+---
+
+## `$ cat /etc/motd`
+
+```
+"The right abstraction at the right layer — that's the whole game."
+
+Build it fast. Build it correct. Build it so it runs in prod without waking you up.
+```
 
 ---
 
 <div align="center">
 
-*Currently diving deep into Distributed Systems and High-Performance Networking.*
+*Open to interesting problems in distributed systems, high-performance computing, and AI infrastructure.*
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vignesh05p&label=Profile+Views&color=0a0a0a&style=flat-square" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=vignesh05p&label=profile+views&color=0d0d0d&style=flat-square)
 
 </div>
