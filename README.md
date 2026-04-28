@@ -76,8 +76,37 @@ Currently diving deep into **distributed systems** and **high-performance networ
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
-
 ## `$ ls -la ./projects`
+
+### [StratForge](https://github.com/vignesh05p/stratforge) — Hybrid Quant Research & Backtesting Engine
+> A Python + Go based quantitative research engine for testing algorithmic trading strategies before real-world execution. StratForge focuses on historical market data loading, strategy signal generation, backtesting, portfolio tracking, and performance evaluation.
+
+`Python` `Go` `Pandas` `Backtesting` `Quant Research` `Trading Systems`
+
+**Core goals**
+- Historical OHLCV data ingestion
+- Moving Average Crossover strategy
+- Buy / Sell / Hold signal pipeline
+- Portfolio and trade simulation
+- Metrics like total return, win rate, max drawdown, and Sharpe ratio
+- Future Go-based execution simulation layer
+
+---
+
+### [TickStream Core](https://github.com/vignesh05p/tickstream-core) — Real-Time Market Data Streaming Engine
+> A backend systems project focused on real-time market tick ingestion, streaming, and execution simulation. Built to explore event-driven architecture, low-latency data flow, and order-processing logic for trading systems.
+
+`Go` `WebSockets` `Streaming` `Concurrency` `Execution Simulation` `FinTech Infrastructure`
+
+**Core goals**
+- Real-time tick data streaming
+- Event-driven processing pipeline
+- Order execution simulator
+- Latency-aware system design
+- Risk checks before execution
+- Future Redis/Kafka-based message pipeline
+
+---
 
 ### [EmbedChat](https://embedchat.app) — AI-Native Knowledge Platform
 > Query your own data with language. Upload documents, connect sources, and get precise answers through a RAG pipeline backed by vector search and LLM inference.
@@ -87,7 +116,7 @@ Currently diving deep into **distributed systems** and **high-performance networ
 ---
 
 ### [Finomo](https://finomo-web-frontend.vercel.app) — Financial Intelligence Dashboard
-> High-performance financial analytics built for real-time decision making. Portfolio tracking, market data visualization, and intelligent reporting — zero lag.
+> High-performance financial analytics built for real-time decision making. Portfolio tracking, market data visualization, and intelligent reporting.
 
 `React` `TypeScript` `Recharts` `REST APIs`
 
