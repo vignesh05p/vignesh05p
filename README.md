@@ -14,7 +14,7 @@
   ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://github.com/vignesh05p/stratforge/blob/main/assets/vignesh-banner%20(1).gif" width="100%" />
+<img src="https://github.com/vignesh05p/stratforge/blob/main/assets/vignesh-b-vi.gif"/>
 
 
 **Member Technical Staff @ Manipal Dot Net**
