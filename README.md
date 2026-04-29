@@ -14,6 +14,9 @@
   ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
+<img src="https://github.com/vignesh05p/stratforge/blob/main/assets/vignesh-banner%20(1).gif" width="100%" />
+
+
 **Member Technical Staff @ Manipal Dot Net**
 
 `C/C++` `Go` `Cloud-Native` `Distributed Systems` `Bengaluru, India`
