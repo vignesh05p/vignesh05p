@@ -81,6 +81,28 @@ Currently diving deep into **distributed systems** and **high-performance networ
 ---
 ## `$ ls -la ./projects`
 
+### [Kaka-Bhushandi](https://github.com/vignesh05p/kaka-bhushandi) — Local-First Agent Training Telemetry Engine *(In Progress)*
+
+> Building a privacy-first local telemetry engine that captures real human computer workflows to generate high-fidelity training data for autonomous agents.
+
+`Python` `Linux/X11` `Telemetry` `Unix Sockets` `Automation` `Privacy-First Systems`
+
+**Current focus**
+
+* Local activity recording across windows, files, processes, input counts, network connections, and browser context
+* Unix socket-based intake pipeline with schema validation and privacy filtering
+* Aggregation engine for session building, idle adjustment, and daily workflow summaries
+* Local-only storage with redaction controls and no keylogging
+
+**Planned**
+
+* Goal labeling for workflow intent capture
+* Training episode generation from raw activity logs
+* DuckDB analytics layer for multi-day workflow analysis
+* Local dashboard for reviewing activity segments and workflow traces
+* Lower-level observers using `auditd` / `eBPF`
+
+
 ### [StratForge](https://github.com/vignesh05p/stratforge) — Hybrid Quant Research Engine *(In Progress)*
 > Building a Python + Go based quantitative research and backtesting engine to test algorithmic trading strategies on historical market data before real-world deployment.
 
