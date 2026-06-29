@@ -63,56 +63,5 @@ Currently diving deep into **distributed systems** and **high-performance networ
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Frameworks & Data**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-
-## `$ history | grep awards`
-
-```
-[2024]  🥇  1st Place   — HackWave 2024
-[2024]  🥈  Runner-up   — EG AI Innovation Challenge
-```
-
----
-
-## `$ ls ./certifications`
-
-| Domain | Certification |
-|--------|--------------|
-| Go | Concurrency, net/http & Gin API development |
-| Cloud | AWS, Docker & Kubernetes fundamentals |
-| Full Stack | Modern web application architecture |
-| JS/TS | JavaScript & TypeScript essentials (LinkedIn Learning) |
-
----
-
-## `$ cat /etc/motd`
-
-```
-"The right abstraction at the right layer — that's the whole game."
-
-Build it fast. Build it correct. Build it so it runs in prod without waking you up.
-```
-
----
-
-<div align="center">
-
-*Open to interesting problems in distributed systems, high-performance computing, and AI infrastructure.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=vignesh05p&label=profile+views&color=0d0d0d&style=flat-square)
 
 </div>
